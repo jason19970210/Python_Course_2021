@@ -24,6 +24,6 @@ Project Tutor :
 ----
 
 ### TO-DO
-- [] IFTTT Setting
-- [] Open Data API Tutor
-- [] Exercise : Paper-Scissors-Stone(human vs bot), Lottery, ...
+- [ ] IFTTT Setting
+- [ ] Open Data API Tutor
+- [ ] Exercise : Paper-Scissors-Stone(human vs bot), Lottery, ...
