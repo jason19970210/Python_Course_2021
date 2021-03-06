@@ -1,6 +1,6 @@
 # Python_Course_2021
 
-Community Purpose for Women Who Code
+Community Tutor for Women Who Code
 
 ## Course Info : <https://hackmd.io/GID0o3WJRcucT7JVr3GWjQ?view>
 
