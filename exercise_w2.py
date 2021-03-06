@@ -1,3 +1,5 @@
+# 閏年
+
 try:
     year = int(input("年份: "))
     if year < 1800:
