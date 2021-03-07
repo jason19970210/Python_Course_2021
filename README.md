@@ -7,7 +7,7 @@ Community Tutor for Women Who Code
 0307/W1 (J
 
 - Environment Setup & Intro
-- Hello World! / Input Hello World ! / Variable / Check var type
+- Hello World ! / Input Hello World ! / Variable / Check var type
 - How to google / Error messages
 - Basic Operators
 
