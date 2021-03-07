@@ -15,5 +15,5 @@ try:
                 print(f"{year}年 是閏年")       #  %4 == 0
         else:
             print(f"{year}年 不是閏年")
-except:
+except: # input is not a number
     print("Not a vaild year !")
