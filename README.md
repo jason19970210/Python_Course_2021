@@ -42,9 +42,9 @@ Community Tutor for Women Who Code
 ### Course Slides
 
 - Info : <https://hackmd.io/GID0o3WJRcucT7JVr3GWjQ?view>
-- W1 : <https://hackmd.io/@jason19970210/B1qKpHvzO>  
+- W1 : <https://hackmd.io/@jason19970210/B1qKpHvzO>
 - W2 : <https://hackmd.io/@jason19970210/H1co42hGO>
-- W3 :
+- W3 : <https://hackmd.io/@Alicia/SkzHhhxEd>
 - W4 :
 - W5 :
 - W6 :
