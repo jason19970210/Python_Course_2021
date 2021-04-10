@@ -45,7 +45,7 @@ Community Tutor for Women Who Code
 - W1 : <https://hackmd.io/@jason19970210/B1qKpHvzO>
 - W2 : <https://hackmd.io/@jason19970210/H1co42hGO>
 - W3 : <https://hackmd.io/@Alicia/SkzHhhxEd>
-- W4 :
+- W4 : <https://hackmd.io/@Alicia/B1QwqM3S_#/>
 - W5 :
 - W6 :
 - W7 :
