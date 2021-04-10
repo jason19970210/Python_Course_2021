@@ -21,7 +21,7 @@ Community Tutor for Women Who Code
 
 0411/W4 (A
 
-- Adv. Variable (Set, Tuple, List, Dict) / Function (basic + try/except + __Lambda(?)__)
+- Adv. Variable (Set, Tuple, List, Dict) / Function (basic + try/except + ~~__Lambda(?)__~~)
 
 0418/W5 (J
 
