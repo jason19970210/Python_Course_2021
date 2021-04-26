@@ -26,13 +26,15 @@ Community Tutor for Women Who Code
 0418/W5 (J
 
 - import / from..import / PyPI pip Library (time, pd_basic > csv, requests, random) >> !pip3 install
+- shopee crawler(1/2)
 
-0425/W6 (J
+0425/W6 (A
+
+- shopee crawler(2/2)
+
+0502/W7 (J
 
 - IFTTT Line Noti + Target Data
-
-0502/W7 (A
-
 - Project (1/2)
 
 0509/W8 (A
@@ -48,7 +50,7 @@ Community Tutor for Women Who Code
 - W4 : <https://hackmd.io/@Alicia/B1QwqM3S_#>
 - W5 : <https://hackmd.io/@jason19970210/20210418#/>
 - W6 : <https://hackmd.io/@Alicia/BkEee5ew_#/>
-- W7 :
+- W7 : <https://hackmd.io/@jason19970210/20210502#/>
 - W8 :
 
 ----
