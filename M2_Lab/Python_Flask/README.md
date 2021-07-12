@@ -54,7 +54,7 @@
 
 ## Course Slides
 - W1 : https://hackmd.io/@jason19970210/20210720#/
-- ...
+- W2 : https://hackmd.io/@jason19970210/20210727#/
 
 ## Reference
 - Virtual Environment
