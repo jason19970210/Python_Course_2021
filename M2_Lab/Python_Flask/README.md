@@ -27,7 +27,7 @@
 | W2 | Basic Routing | 1 |
 | ---- |
 | W3 | TCP/IP | 1.5 | IPv4 |
-| W3 | HTTP Methods | 1.5 | GET, POST, ... |
+| W3 | HTTP Methods | 1.5 | GET, POST, [15] |
 | ---- |
 | W4 | Jinja Template | 2 | HTML/JS/CSS, Variables & Control Strutures |
 | W4 | Jinja Template | 1 | Bootstrap & Error Pages |
@@ -70,3 +70,4 @@
 
 
 [1]: https://ithelp.ithome.com.tw/articles/10205939
+[2]: https://www.maxlist.xyz/2019/03/17/flask-get-post/

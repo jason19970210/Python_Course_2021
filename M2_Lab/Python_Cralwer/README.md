@@ -30,14 +30,15 @@
 | W3 | URL Encode / Decode | 1 |
 | W3 | HTTP Exercise | 1 |
 | ---- |
-| W4 | Query Output : JSON Format | 1 | [1], [2] |
-| W4 | Query Output : HTML Format | 2 | BeautifulSoup4 ([4]) <br> Element Selecting : CSS Selector, XPath [14] |
+| W4 | Query Output : JSON Format | 1.5 | [1], [2] |
+| W4 | Exercise | 1.5 |
 | ---- |
-| W5 | Headers, Cookie Spoofing | 2 | UA , [3] |
-| W5 | Anti-Cralwer | 1 | robots.txt |
+| W5 | Headers | 1 | UA , [3] |
+| W5 | Anti-Cralwer | 0.5 | robots.txt |
+| W5 | 蝦皮網站練習 | 1.5 | [7], BeautifulSoup4 ([4]) , CSS Selector |
 | ---- |
-| W6 | 蝦皮網站練習 | 2 | [7] |
-| W6 | PTT 練習 | 1 | [5], [6] |
+| W6 | Cookie | 
+| W6 | PTT 練習 | 1 | [5], [6], XPath [14] |
 | ---- |
 | W7 | 多工 | 1 | Multi-thread | [12] |
 | W7 | 多工爬蟲 | 2 | [9], [8], [13] |
@@ -53,7 +54,7 @@
 
 
 ## Course Slides
-- W1 :
+- W1 : https://hackmd.io/@jason19970210/20210722#/
 - ...
 
 ## Reference
