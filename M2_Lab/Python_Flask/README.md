@@ -47,9 +47,8 @@
 | W9 | API | 1.5 | return JSON | 
 | W9 | Testing Tools | 1.5 | Postman, REST Client |
 | ---- |
-| W10 | DNS & NGROK | 1.5 | Localhost, Google Colab, DNS |
+| W10 | DNS & NGROK | 1.5 | localhost, Google Colab, DNS |
 | W10 | Demo Time | 1.5 |
-
 
 
 ## Course Slides
