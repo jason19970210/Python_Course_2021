@@ -50,12 +50,11 @@
 | W9 | Practice | 1 |
 | ---- |
 | W10 | 爬蟲實戰 Demo | 2.5 |
-| ---- |
 
 
 ## Course Slides
 - W1 : https://hackmd.io/@jason19970210/20210722#/
-- ...
+- W2 : https://hackmd.io/@jason19970210/20210729#/
 
 ## Reference
 - Virtual Environment

@@ -52,10 +52,12 @@
 
 
 ## Course Slides
+- W0 : https://hackmd.io/@jason19970210/20210716#/
 - W1 : https://hackmd.io/@jason19970210/20210720#/
 - W2 : https://hackmd.io/@jason19970210/20210727#/
 
 ## Reference
+- Blogs : https://ithelp.ithome.com.tw/users/20120116/ironman/2532
 - Virtual Environment
     - venv
         - https://docs.python.org/zh-tw/3/tutorial/venv.html
